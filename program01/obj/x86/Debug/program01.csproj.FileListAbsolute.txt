@@ -1,0 +1,13 @@
+D:\itcast\chapter09\program01\bin\Debug\program01.exe
+D:\itcast\chapter09\program01\bin\Debug\program01.pdb
+D:\itcast\chapter09\program01\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\itcast\chapter09\program01\obj\x86\Debug\program01.exe
+D:\itcast\chapter09\program01\obj\x86\Debug\program01.pdb
+C:\Users\WCS\Desktop\代码检查\C#教材配套代码\C#教材配套代码\chapter09\program01\obj\x86\Debug\program01.exe
+C:\Users\WCS\Desktop\代码检查\C#教材配套代码\C#教材配套代码\chapter09\program01\obj\x86\Debug\program01.pdb
+C:\Users\WCS\Desktop\代码检查\C#教材配套代码\C#教材配套代码\chapter09\program01\bin\Debug\program01.exe
+C:\Users\WCS\Desktop\代码检查\C#教材配套代码\C#教材配套代码\chapter09\program01\bin\Debug\program01.pdb
+D:\chapter09\program01\obj\x86\Debug\program01.exe
+D:\chapter09\program01\obj\x86\Debug\program01.pdb
+D:\chapter09\program01\bin\Debug\program01.exe
+D:\chapter09\program01\bin\Debug\program01.pdb
